@@ -1,5 +1,18 @@
 # AI-ML-DS-websites
 
+## Datasets
+
+[Datasets – Google AI](https://ai.google/tools/datasets/)
+[awesomedata/awesome-public-datasets: A topic-centric list of HQ open datasets](https://github.com/awesomedata/awesome-public-datasets)
+[Stanford Large Network Dataset Collection](http://snap.stanford.edu/data/)
+[Datasets « Deep Learning](http://deeplearning.net/datasets/)
+[Tab-delimited Bilingual Sentence Pairs from the Tatoeba Project (Good for Anki and Similar Flashcard Applications)](http://www.manythings.org/anki/)
+[speech accent archive: browse](http://accent.gmu.edu/browse_language.php?function=detail&speakerid=192)
+[Shtooka - A free audio database of words and expressions pronounced by native speakers](http://shtooka.net/)
+[GitHub - larsyencken/wide-language-index: An index of public broadcasts tagged by their primary language.](https://github.com/larsyencken/wide-language-index)
+[Data: language confusion](https://lars.yencken.org/datasets/languagegame/)
+[Common Voice](https://voice.mozilla.org/en/datasets)
+
 ## Papers
 
 * [Arxiv Sanity Preserver](http://www.arxiv-sanity.com/)
