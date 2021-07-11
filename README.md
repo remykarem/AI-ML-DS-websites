@@ -2,9 +2,9 @@
 
 ## Benchmarks & leaderboard
 
-https://leaderboard.allenai.org/arc/submissions/public
-https://dawn.cs.stanford.edu/benchmark/#imagenet
-https://gluebenchmark.com/leaderboard/
-https://paperswithcode.com/task/image-classification
-[SuperGLUE Benchmark](https://super.gluebenchmark.com/leaderboard/)
-http://ann-benchmarks.com/
+* [AI2 Leaderboard](https://leaderboard.allenai.org/arc/submissions/public)
+* [DAWNBench](https://dawn.cs.stanford.edu/benchmark/#imagenet)
+* [GLUE Benchmark](https://gluebenchmark.com/leaderboard/)
+* [Papers With Code](https://paperswithcode.com/)
+* [SuperGLUE Benchmark](https://super.gluebenchmark.com/leaderboard/)
+* [ANN-Benchmarks](http://ann-benchmarks.com/)
