@@ -1,6 +1,10 @@
 # My list of AI/ML/DS websites
 
 ## Blogs
+* [Polo Club of Data Science](https://poloclub.github.io)
+* [Amit Chaudhary](https://amitness.com)
+* [Lei Mao](https://leimao.github.io)
+* [Jeremy Jordan](https://www.jeremyjordan.me)
 * [Lil'Log](https://lilianweng.github.io/lil-log/)
 * [Machine, Think!](http://machinethink.net/)
 * [PyImageSearch](https://www.pyimagesearch.com/)
@@ -31,7 +35,7 @@
 * [Data: language confusion](https://lars.yencken.org/datasets/languagegame/)
 * [Common Voice](https://voice.mozilla.org/en/datasets)
 
-## Papers
+## Paper
 
 * [Arxiv Sanity Preserver](http://www.arxiv-sanity.com/)
 * [Semantic Sanity by Semantic Scholar](https://s2-sanity.apps.allenai.org/cold-start)
