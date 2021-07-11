@@ -1,4 +1,19 @@
-# AI-ML-DS-websites
+# My list of AI/ML/DS websites
+
+## Blogs
+* [Lil'Log](https://lilianweng.github.io/lil-log/)
+* [Machine, Think!](http://machinethink.net/)
+* [PyImageSearch](https://www.pyimagesearch.com/)
+* [Python Tutorials – Real Python](https://realpython.com/)
+* [colah's blog](https://colah.github.io/)
+* [Jovian Lin, Ph.D. - Jovian's Notes](https://jovianlin.io/author/jovianlin/)
+* [Distill](https://distill.pub/)
+* [Teaching](https://stanford.edu/~shervine/teaching/)
+* [CS231n Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/)
+* [Machine Learning Mastery](https://machinelearningmastery.com/)
+* [AI Leonardo](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/chapter1.html)
+* [Deep Learning](https://www.deeplearningbook.org/)
+* [A bird-eye view of optimization algorithms](http://fa.bianp.net/teaching/2018/COMP-652/)
 
 ## Utils
 * [Jupyter notebook preview](https://jsvine.github.io/nbpreview/)
