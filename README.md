@@ -1,5 +1,8 @@
 # AI-ML-DS-websites
 
+## Utils
+* [Jupyter notebook preview](https://jsvine.github.io/nbpreview/)
+
 ## Datasets
 
 * [Datasets – Google AI](https://ai.google/tools/datasets/)
