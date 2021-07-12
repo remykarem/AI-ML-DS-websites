@@ -1,6 +1,12 @@
 # My list of AI/ML/DS websites
 
+## Algorithm visualiser
+
+* [LDA](https://lettier.com/projects/lda-topic-modeling/)
+* [NER](https://explosion.ai/demos/displacy-ent)
+
 ## Blogs
+
 * [Polo Club of Data Science](https://poloclub.github.io)
 * [Amit Chaudhary](https://amitness.com)
 * [Lei Mao](https://leimao.github.io)
@@ -26,15 +32,23 @@
 * [Raúl Gómez](https://gombru.github.io/)
 * [Let's Learn About Waveforms](https://pudding.cool/2018/02/waveforms/)
 * [Michael Freeman](http://mfviz.com/)
+* [Jay Alammar](https://jalammar.github.io)
+
+## Applications
+
+* [Subreddit](https://anvaka.github.io/sayit/?query=)
 
 ## References
+
 * [An Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/pdf/irbookonlinereading.pdf)
 
 ## Aggregates
+
 * [Awesome Machine Learning Interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability)
 
 ## Utils
 * [Jupyter notebook preview](https://jsvine.github.io/nbpreview/)
+* [Projector](http://projector.tensorflow.org)
 
 ## Datasets
 
