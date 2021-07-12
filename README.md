@@ -5,6 +5,7 @@
 * [LDA](https://lettier.com/projects/lda-topic-modeling/)
 * [NER](https://explosion.ai/demos/displacy-ent)
 * [Markov chains](https://setosa.io/ev/markov-chains/)
+* [CoreNLP](http://corenlp.run/)
 
 ## Blogs
 
@@ -34,10 +35,13 @@
 * [Let's Learn About Waveforms](https://pudding.cool/2018/02/waveforms/)
 * [Michael Freeman](http://mfviz.com/)
 * [Jay Alammar](https://jalammar.github.io)
+* [Ritchie Vink](https://www.ritchievink.com)
+* [Neil Kakkar](https://neilkakkar.com/Bayes-Theorem-Framework-for-Critical-Thinking.html)
 
 ## Applications
 
 * [Subreddit](https://anvaka.github.io/sayit/?query=)
+* [Write WIth Transformer](https://transformer.huggingface.co/doc/arxiv-nlp)
 
 ## References
 
@@ -46,12 +50,22 @@
 ## Aggregates
 
 * [Awesome Machine Learning Interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability)
+* [Interactive Machine Learning List](https://p.migdal.pl/interactive-machine-learning-list/)
+* [TFJS demos](https://github.com/tensorflow/tfjs-examples)
+* [Experiments with Google](https://experiments.withgoogle.com/collection/ai)
+* [DeepIndex](https://deepindex.org/)
+* [Allen AI Demos](https://allenai.org/demos)
 
 ## Utils
 
 * [Netron](https://netron.app)
 * [Jupyter notebook preview](https://jsvine.github.io/nbpreview/)
 * [Projector](http://projector.tensorflow.org)
+* [kepler.gl](https://kepler.gl/#/)
+* [Facets](https://pair-code.github.io/facets/)
+* [Timeline Storyteller](https://timelinestoryteller.com/)
+* [CNN visualiser](http://www.cs.cmu.edu/~aharley/vis/)
+* [Ngram Viewer](https://books.google.com/ngrams)
 
 ## Datasets
 
