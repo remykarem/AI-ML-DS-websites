@@ -4,6 +4,7 @@
 
 * [LDA](https://lettier.com/projects/lda-topic-modeling/)
 * [NER](https://explosion.ai/demos/displacy-ent)
+* [Markov chains](https://setosa.io/ev/markov-chains/)
 
 ## Blogs
 
@@ -47,6 +48,8 @@
 * [Awesome Machine Learning Interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability)
 
 ## Utils
+
+* [Netron](https://netron.app)
 * [Jupyter notebook preview](https://jsvine.github.io/nbpreview/)
 * [Projector](http://projector.tensorflow.org)
 
