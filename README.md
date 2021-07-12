@@ -17,7 +17,21 @@
 * [Machine Learning Mastery](https://machinelearningmastery.com/)
 * [AI Leonardo](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/chapter1.html)
 * [Deep Learning](https://www.deeplearningbook.org/)
-* [A bird-eye view of optimization algorithms](http://fa.bianp.net/teaching/2018/COMP-652/)
+* [fa.bianp.net](http://fa.bianp.net/teaching/2018/COMP-652/)
+* [Victor Zhou](https://victorzhou.com/)
+* [Andrej Karpathy](http://karpathy.github.io/)
+* [Naftali Harris](https://www.naftaliharris.com/blog/)
+* [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
+* [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
+* [Raúl Gómez](https://gombru.github.io/)
+* [Let's Learn About Waveforms](https://pudding.cool/2018/02/waveforms/)
+* [Michael Freeman](http://mfviz.com/)
+
+## References
+* [An Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/pdf/irbookonlinereading.pdf)
+
+## Aggregates
+* [Awesome Machine Learning Interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability)
 
 ## Utils
 * [Jupyter notebook preview](https://jsvine.github.io/nbpreview/)
