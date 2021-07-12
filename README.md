@@ -6,6 +6,20 @@
 * [NER](https://explosion.ai/demos/displacy-ent)
 * [Markov chains](https://setosa.io/ev/markov-chains/)
 * [CoreNLP](http://corenlp.run/)
+* [GAN Lab](https://poloclub.github.io/ganlab/)
+* [Neural Network](http://playground.tensorflow.org/)
+* [DDPG](https://janhuenermann.com/blog/2017/self-driving-cars)
+* [Regression](https://ck090.github.io/tensorflowregression/)
+* [DBSCAN](https://www.naftaliharris.com/blog/visualizing-dbscan-clustering/)
+* [SVM](https://dash-gallery.plotly.host/dash-svm/)
+* [Decision tree](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
+* [k-means](https://stanford.edu/class/engr108/visualizations/kmeans/kmeans.html)
+* [Polynomial regression](https://stanford.edu/class/engr108/visualizations/lls_polyfit/polyfit.html)
+* [UMAP](https://pair-code.github.io/understanding-umap/)
+* [Dimensionality reduction](https://dimensionality-reduction-293e465c2a3443e8941b016d.vercel.app)
+* [UMAP](https://grantcuster.github.io/umap-explorer/)
+* [t-SNE](https://cs.stanford.edu/people/karpathy/tsnejs/csvdemo.html)
+* [PCA](https://towardsdatascience.com/visualizing-principal-component-analysis-with-matrix-transforms-d17dabc8230e)
 
 ## Blogs
 
@@ -20,7 +34,7 @@
 * [Christopher Olah](https://colah.github.io/)
 * [Jovian Lin](https://jovianlin.io/author/jovianlin/)
 * [Distill](https://distill.pub/)
-* [Shervine](https://stanford.edu/~shervine/teaching/)
+* [Shervine Amidi](https://stanford.edu/~shervine/teaching/)
 * [CS231n](http://cs231n.github.io/)
 * [Machine Learning Mastery](https://machinelearningmastery.com/)
 * [AI Leonardo](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/chapter1.html)
@@ -37,14 +51,31 @@
 * [Jay Alammar](https://jalammar.github.io)
 * [Ritchie Vink](https://www.ritchievink.com)
 * [Neil Kakkar](https://neilkakkar.com/Bayes-Theorem-Framework-for-Critical-Thinking.html)
+* [Louis Kirsch](http://louiskirsch.com/blog/)
+* [Jack Schaedler](https://jackschaedler.github.io/circles-sines-signals/)
+* [Jez Swanson](https://www.jezzamon.com/fourier/index.html)
+* [Claus Wilke](https://clauswilke.com/dataviz/)
+* [Karin Knudson](https://karinknudson.com/dirichletprocesses.html)
+
+## Courses
+
+* [Machine Learning Crash Course by Google](https://developers.google.com/machine-learning/crash-course)
 
 ## Applications
 
 * [Subreddit](https://anvaka.github.io/sayit/?query=)
 * [Write WIth Transformer](https://transformer.huggingface.co/doc/arxiv-nlp)
+* [Tone Transfer](https://sites.research.google/tonetransfer)
+* [Johann Sebastian Bach](https://www.google.com/doodles/celebrating-johann-sebastian-bach?doodle=80484806_2ExmS6h47r4RqSac4da0N6xz9GbGRatjXOBgV70a8CwESBy0viCaEcWDFTsZL0lKu0W-AngpRNFEWKI07HTRRIlpG1uDgbxeaL13f6Mm_Hi12z14foxnE_frCZXjwi5vCKevHCK1f00RlXROfDEHM2zEi224-ve0mB6nEgML_YWSbkyC-U8SoadtYKTXzfPra8GE83xqimQCpXVv7vrrTtVVB6wuuQbfCUEWkdxuBY6gtChOBxIivF73pL2HYw5QZLXXQHC5Fk3ExSpFhWghzaVUpvJXZkYaB_y4ie9RSrUupAUKIoHH8K85DbFArnzlvRgYwPfvHJk2jNWHVGntzdlhGdX4XWrUd5TGDSB-TPonvXQk6skZNfTXWfR_EA1yHn2Lbq9ueAavdJAXDw0WU7yk4JGeF0nv19pHExU3nINaKwhJn0WF_jtwAvQtL8vKcjHl1vtWhA5nIfCwT2UEkmSd7JduBBXNqDUu8s5P6uFa4wCBb3cWfF8GcsnrfKgoAPETCuspe5suwpke6geLReJJKSj2qZD9fbSllYgdI68bj2gnNVD2z1n4GKoKHMzpDo64KUReMhqINfqAyDDEvhkNIKHWwewgYT9mFF75tC2rYU20ivjhUO8ZGYPh12EnvTi81e7pLi1xfDNGFOV3ca_cB_crYGUTZbbiNDbKch8PweiRPk_42_R2P6Fw1zShv3zvrdHu2TAWHHPM6XGqyVikBUSNAwf1vzNN70hZeghKvEJU8qXehGaK9ojiAKCmx4JcnZ4M8ciRbmZfbUKn3K7bEw2vhIgIUR589uZ0qfBpAEaW3fKpRH2Gvo2sOw8wO8By3WRfPryDyW30uMTkrFmn34hwX3mtjLNewm3id5VlhnD3Skd8pkNRW78KSYQSSTRSRxgDPsrazb8zmOE8EaMALNF24v5C3gPAmjTxVcAjv5JmTzYa7cJBbo6fmj3yW987MphTY6wdOHQC3ZsMmtkR_C36bl3wGM8rd3Qs9pGeog6mqGWt6jb5JXarsbfE5e01EtjsLeaz8avnNLIfdQQ-mTQQQgfO1HVn7xF_6YMLCo_hkcsbsgrlOj4GpDriFIpZhyXND7davEPInhSAJuVk4ZdjCawlcsxQx7uySeaEXBVYNnhfBPLzHxyklHxIMwpJHnS_XUnCrkGLFR8KNudG25Owavla1N5yTAgsMEYa5pUPN5OPEHblEtXLY6K-HFJ8SVA5IHQ3K1kR69pq8yhuUveLOS3JGIJOnEqqFynVnPXU3Y0xIxTEx-q9sJw7q7f8oCxMF64-rzC6kQkgRZ1VJDvs8mvPWZ-gv6y_3ng.&domain_name=google.com&hl=en)
+* [Midi Generator](https://musicautobot.com/predict/0b25b307611f364895547554840b4c31)
+* [Latent Cycles](https://codepen.io/teropa/details/rdoPbG)
+* [Automatic Colorization](https://petalica-paint.pixiv.dev/index_en.html)
+* [Rock Paper Scissors](https://tenso.rs/demos/rock-paper-scissors/)
+* [Emotion Extractor](https://brendansudol.com/faces/)
 
 ## References
 
+* [Reinforcement Learning: An Introduction (Sutton and Barto)](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
 * [An Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/pdf/irbookonlinereading.pdf)
 
 ## Aggregates
@@ -55,6 +86,7 @@
 * [Experiments with Google](https://experiments.withgoogle.com/collection/ai)
 * [DeepIndex](https://deepindex.org/)
 * [Allen AI Demos](https://allenai.org/demos)
+* [AIJS](https://aijs.rocks)
 
 ## Utils
 
@@ -66,6 +98,11 @@
 * [Timeline Storyteller](https://timelinestoryteller.com/)
 * [CNN visualiser](http://www.cs.cmu.edu/~aharley/vis/)
 * [Ngram Viewer](https://books.google.com/ngrams)
+* [NN-SVG](http://alexlenail.me/NN-SVG/LeNet.html)
+* [Flowpoints](https://mariusbrataas.github.io/flowpoints_ml/)
+* [CNN Explainer](https://poloclub.github.io/cnn-explainer/)
+* [ChartAccent](https://chartaccent.github.io/chartaccent.html)
+* [Charticulator](https://charticulator.com/app/index.html)
 
 ## Datasets
 
@@ -98,3 +135,7 @@
 * [Papers With Code](https://paperswithcode.com/)
 * [SuperGLUE Benchmark](https://super.gluebenchmark.com/leaderboard/)
 * [ANN-Benchmarks](http://ann-benchmarks.com/)
+
+## Others
+
+* [Kaggle solutions](http://kagglesolutions.com)
