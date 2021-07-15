@@ -23,30 +23,21 @@
 
 ## Blogs
 
-* [Polo Club of Data Science](https://poloclub.github.io)
+People
+
 * [Amit Chaudhary](https://amitness.com)
 * [Lei Mao](https://leimao.github.io)
 * [Jeremy Jordan](https://www.jeremyjordan.me)
 * [Lilian Weng](https://lilianweng.github.io/lil-log/)
-* [Machine, Think!](http://machinethink.net/)
-* [PyImageSearch](https://www.pyimagesearch.com/)
-* [Real Python](https://realpython.com/)
 * [Christopher Olah](https://colah.github.io/)
 * [Jovian Lin](https://jovianlin.io/author/jovianlin/)
-* [Distill](https://distill.pub/)
 * [Shervine Amidi](https://stanford.edu/~shervine/teaching/)
-* [CS231n](http://cs231n.github.io/)
-* [Machine Learning Mastery](https://machinelearningmastery.com/)
-* [AI Leonardo](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/chapter1.html)
-* [Deep Learning](https://www.deeplearningbook.org/)
 * [Fabian Pedregosa](http://fa.bianp.net/teaching/2018/COMP-652/)
 * [Victor Zhou](https://victorzhou.com/)
 * [Andrej Karpathy](http://karpathy.github.io/)
 * [Naftali Harris](https://www.naftaliharris.com/blog/)
 * [Christoph Molnar](https://christophm.github.io/interpretable-ml-book/)
-* [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
 * [Raúl Gómez](https://gombru.github.io/)
-* [Let's Learn About Waveforms](https://pudding.cool/2018/02/waveforms/)
 * [Michael Freeman](http://mfviz.com/)
 * [Jay Alammar](https://jalammar.github.io)
 * [Ritchie Vink](https://www.ritchievink.com)
@@ -56,6 +47,21 @@
 * [Jez Swanson](https://www.jezzamon.com/fourier/index.html)
 * [Claus Wilke](https://clauswilke.com/dataviz/)
 * [Karin Knudson](https://karinknudson.com/dirichletprocesses.html)
+* [Sebastian Ruder](https://ruder.io)
+* [Let's Learn About Waveforms](https://pudding.cool/2018/02/waveforms/)
+* [Machine Learning Mastery](https://machinelearningmastery.com/)
+* [Machine, Think!](http://machinethink.net/)
+* [PyImageSearch](https://www.pyimagesearch.com/)
+* [AI Leonardo](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/chapter1.html)
+* [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
+
+Organisations
+
+* [Polo Club of Data Science](https://poloclub.github.io)
+* [Distill](https://distill.pub/)
+* [CS231n](http://cs231n.github.io/)
+* [Real Python](https://realpython.com/)
+* [Google AI](https://blog.google/technology/ai/)
 
 ## Courses
 
@@ -63,6 +69,7 @@
 
 ## Applications
 
+* [AllenNLP](https://demo.allennlp.org/)
 * [Subreddit](https://anvaka.github.io/sayit/?query=)
 * [Write WIth Transformer](https://transformer.huggingface.co/doc/arxiv-nlp)
 * [Tone Transfer](https://sites.research.google/tonetransfer)
@@ -77,6 +84,8 @@
 
 * [Reinforcement Learning: An Introduction (Sutton and Barto)](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
 * [An Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/pdf/irbookonlinereading.pdf)
+* [Deep Learning](https://www.deeplearningbook.org/)
+* [Math for Machine Learning](http://gwthomas.github.io/docs/math4ml.pdf)
 
 ## Aggregates
 
@@ -106,6 +115,7 @@
 
 ## Datasets
 
+* [Kaggle datasets](https://www.kaggle.com/datasets)
 * [Datasets – Google AI](https://ai.google/tools/datasets/)
 * [awesomedata/awesome-public-datasets: A topic-centric list of HQ open datasets](https://github.com/awesomedata/awesome-public-datasets)
 * [Stanford Large Network Dataset Collection](http://snap.stanford.edu/data/)
@@ -116,6 +126,7 @@
 * [GitHub - larsyencken/wide-language-index: An index of public broadcasts tagged by their primary language.](https://github.com/larsyencken/wide-language-index)
 * [Data: language confusion](https://lars.yencken.org/datasets/languagegame/)
 * [Common Voice](https://voice.mozilla.org/en/datasets)
+* [DeepDive](http://deepdive.stanford.edu)
 
 ## Paper
 
