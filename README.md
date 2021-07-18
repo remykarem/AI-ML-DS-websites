@@ -25,6 +25,7 @@
 
 People
 
+* [Eugene Yan](https://eugeneyan.com)
 * [Amit Chaudhary](https://amitness.com)
 * [Lei Mao](https://leimao.github.io)
 * [Jeremy Jordan](https://www.jeremyjordan.me)
