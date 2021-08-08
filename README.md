@@ -113,6 +113,7 @@ Organisations
 * [CNN Explainer](https://poloclub.github.io/cnn-explainer/)
 * [ChartAccent](https://chartaccent.github.io/chartaccent.html)
 * [Charticulator](https://charticulator.com/app/index.html)
+* [Intel oneMKL](https://software.intel.com/content/www/us/en/develop/tools/oneapi/components/onemkl/link-line-advisor.html)
 
 ## Datasets
 
