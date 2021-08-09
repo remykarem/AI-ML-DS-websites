@@ -20,6 +20,9 @@
 * [UMAP](https://grantcuster.github.io/umap-explorer/)
 * [t-SNE](https://cs.stanford.edu/people/karpathy/tsnejs/csvdemo.html)
 * [PCA](https://towardsdatascience.com/visualizing-principal-component-analysis-with-matrix-transforms-d17dabc8230e)
+* [Probability Distributions Viewer](https://statdist.ksmzn.com)
+* [Seeing Theory](https://seeing-theory.brown.edu/basic-probability/index.html)
+* [Matrix Multiplication](http://matrixmultiplication.xyz)
 
 ## Blogs
 
@@ -55,6 +58,7 @@ People
 * [PyImageSearch](https://www.pyimagesearch.com/)
 * [AI Leonardo](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/chapter1.html)
 * [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
+* [Matthew Stephens](https://stephens999.github.io/fiveMinuteStats/about.html)
 
 Organisations
 
@@ -114,6 +118,7 @@ Organisations
 * [ChartAccent](https://chartaccent.github.io/chartaccent.html)
 * [Charticulator](https://charticulator.com/app/index.html)
 * [Intel oneMKL](https://software.intel.com/content/www/us/en/develop/tools/oneapi/components/onemkl/link-line-advisor.html)
+* [Distribution Fitter](https://distribution-fitter-5000.herokuapp.com)
 
 ## Datasets
 
