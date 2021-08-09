@@ -59,6 +59,7 @@ People
 * [AI Leonardo](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/chapter1.html)
 * [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
 * [Matthew Stephens](https://stephens999.github.io/fiveMinuteStats/about.html)
+* [Fred Hohman](https://fredhohman.com)
 
 Organisations
 
@@ -74,16 +75,42 @@ Organisations
 
 ## Applications
 
+Language
+
 * [AllenNLP](https://demo.allennlp.org/)
 * [Subreddit](https://anvaka.github.io/sayit/?query=)
-* [Write WIth Transformer](https://transformer.huggingface.co/doc/arxiv-nlp)
+* [Write With Transformer](https://transformer.huggingface.co/doc/arxiv-nlp)
+* [InferKit](https://app.inferkit.com/demo)
+* [GLTR](http://gltr.io/dist/index.html)
+* [Cyborg Writer](https://cyborg.tenso.rs)
+* [Toxicity](https://storage.googleapis.com/tfjs-models/demos/toxicity/index.html)
+* [Open IE](https://openie.allenai.org)
+
+Audio
+
+* [Midi Generator](https://musicautobot.com/predict/0b25b307611f364895547554840b4c31)
 * [Tone Transfer](https://sites.research.google/tonetransfer)
 * [Johann Sebastian Bach](https://www.google.com/doodles/celebrating-johann-sebastian-bach?doodle=80484806_2ExmS6h47r4RqSac4da0N6xz9GbGRatjXOBgV70a8CwESBy0viCaEcWDFTsZL0lKu0W-AngpRNFEWKI07HTRRIlpG1uDgbxeaL13f6Mm_Hi12z14foxnE_frCZXjwi5vCKevHCK1f00RlXROfDEHM2zEi224-ve0mB6nEgML_YWSbkyC-U8SoadtYKTXzfPra8GE83xqimQCpXVv7vrrTtVVB6wuuQbfCUEWkdxuBY6gtChOBxIivF73pL2HYw5QZLXXQHC5Fk3ExSpFhWghzaVUpvJXZkYaB_y4ie9RSrUupAUKIoHH8K85DbFArnzlvRgYwPfvHJk2jNWHVGntzdlhGdX4XWrUd5TGDSB-TPonvXQk6skZNfTXWfR_EA1yHn2Lbq9ueAavdJAXDw0WU7yk4JGeF0nv19pHExU3nINaKwhJn0WF_jtwAvQtL8vKcjHl1vtWhA5nIfCwT2UEkmSd7JduBBXNqDUu8s5P6uFa4wCBb3cWfF8GcsnrfKgoAPETCuspe5suwpke6geLReJJKSj2qZD9fbSllYgdI68bj2gnNVD2z1n4GKoKHMzpDo64KUReMhqINfqAyDDEvhkNIKHWwewgYT9mFF75tC2rYU20ivjhUO8ZGYPh12EnvTi81e7pLi1xfDNGFOV3ca_cB_crYGUTZbbiNDbKch8PweiRPk_42_R2P6Fw1zShv3zvrdHu2TAWHHPM6XGqyVikBUSNAwf1vzNN70hZeghKvEJU8qXehGaK9ojiAKCmx4JcnZ4M8ciRbmZfbUKn3K7bEw2vhIgIUR589uZ0qfBpAEaW3fKpRH2Gvo2sOw8wO8By3WRfPryDyW30uMTkrFmn34hwX3mtjLNewm3id5VlhnD3Skd8pkNRW78KSYQSSTRSRxgDPsrazb8zmOE8EaMALNF24v5C3gPAmjTxVcAjv5JmTzYa7cJBbo6fmj3yW987MphTY6wdOHQC3ZsMmtkR_C36bl3wGM8rd3Qs9pGeog6mqGWt6jb5JXarsbfE5e01EtjsLeaz8avnNLIfdQQ-mTQQQgfO1HVn7xF_6YMLCo_hkcsbsgrlOj4GpDriFIpZhyXND7davEPInhSAJuVk4ZdjCawlcsxQx7uySeaEXBVYNnhfBPLzHxyklHxIMwpJHnS_XUnCrkGLFR8KNudG25Owavla1N5yTAgsMEYa5pUPN5OPEHblEtXLY6K-HFJ8SVA5IHQ3K1kR69pq8yhuUveLOS3JGIJOnEqqFynVnPXU3Y0xIxTEx-q9sJw7q7f8oCxMF64-rzC6kQkgRZ1VJDvs8mvPWZ-gv6y_3ng.&domain_name=google.com&hl=en)
-* [Midi Generator](https://musicautobot.com/predict/0b25b307611f364895547554840b4c31)
-* [Latent Cycles](https://codepen.io/teropa/details/rdoPbG)
+
+Vision
+
+* [Emotion Extractor](https://brendansudol.com/faces/)
+* [Facial Emoji](https://facial-emoji.netlify.app)
 * [Automatic Colorization](https://petalica-paint.pixiv.dev/index_en.html)
 * [Rock Paper Scissors](https://tenso.rs/demos/rock-paper-scissors/)
-* [Emotion Extractor](https://brendansudol.com/faces/)
+* [Fast Style Transfer](https://yining1023.github.io/fast_style_transfer_in_ML5/#)
+* [GauGAN](http://nvidia-research-mingyuliu.com/gaugan/)
+* [Pose Animator](https://pose-animator-demo.firebaseapp.com)
+* [Keras.js](https://transcranial.github.io/keras-js/#/)
+* [Arbitrary Style Transfer](https://reiinakano.com/arbitrary-image-stylization-tfjs/)
+* [Artbreeder](https://www.artbreeder.com)
+* [Selfie 2 Waifu](https://waifu.lofiu.com)
+
+Others
+
+* [Latent Cycles](https://codepen.io/teropa/details/rdoPbG)
+* [Tesseract](https://tesseract.projectnaptha.com)
+* [Image Captioning](https://codepen.io/sdras/full/jawPGa/?__cf_chl_jschl_tk__=38a1ca80addc8d78e4ecea51ec84476ed4a1010a-1580346782-0-AenE9yV1p1LMb7LumZR_4lK2YKsCkWFYHphNB7e4I3VlJauq1rBxBDlivKyI3XpcFIPyfwrZVWm5TrK2CGGbNwsoUqi9OpIAXk8Z8AVSJPXkrL1waZlTHmBeLtxnLEG0y57Jvq9MHhhTPrfCuqXRzHVDO1Q06Bg_aiK1JVbGJ0yrM_m-riiaG9V_JfYZNcRpnX93z0vjjsapvihO6PPPMEAws-BjiCATT_ReEzGkDrNoHLSRtsMfABfuorXYvAEv58dfb0MQwQfyRjPjWgFKrPCF1vZnQjrtHUV0xnm_CO5_dU4uqU6vgk1f2Ffp-vCREfYUEM1tjCIOSufsCvhFWPXjBYFCOcgkmzoiRh8w6P9X)
 
 ## References
 
@@ -101,6 +128,9 @@ Organisations
 * [DeepIndex](https://deepindex.org/)
 * [Allen AI Demos](https://allenai.org/demos)
 * [AIJS](https://aijs.rocks)
+* [NLP Progress](http://nlpprogress.com)
+* [CV Examples](https://kylemcdonald.github.io/cv-examples/)
+* [Awesome NLP](https://github.com/keon/awesome-nlp)
 
 ## Utils
 
@@ -119,6 +149,12 @@ Organisations
 * [Charticulator](https://charticulator.com/app/index.html)
 * [Intel oneMKL](https://software.intel.com/content/www/us/en/develop/tools/oneapi/components/onemkl/link-line-advisor.html)
 * [Distribution Fitter](https://distribution-fitter-5000.herokuapp.com)
+* [Deep Learning Interpretability](https://fredhohman.com/summit/)
+* [Image Similarity Search](https://convnetplayground.fastforwardlabs.com/#/)
+* [Extract keywords](https://www.cortical.io/freetools/extract-keywords/)
+* [Keyword Extractor](https://app.monkeylearn.com/main/extractors/ex_YCya9nrn/tab/demo/)
+* [Image Upscaler](https://icons8.com/upscaler)
+* [TensorSpace.js](https://tensorspace.org)
 
 ## Datasets
 
