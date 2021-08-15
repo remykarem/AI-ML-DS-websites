@@ -189,6 +189,7 @@ Others
 * [Papers With Code](https://paperswithcode.com/)
 * [SuperGLUE Benchmark](https://super.gluebenchmark.com/leaderboard/)
 * [ANN-Benchmarks](http://ann-benchmarks.com/)
+* [Summary Explorer](https://tldr.webis.de)
 
 ## Others
 
