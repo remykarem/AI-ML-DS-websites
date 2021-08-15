@@ -170,6 +170,7 @@ Others
 * [Data: language confusion](https://lars.yencken.org/datasets/languagegame/)
 * [Common Voice](https://voice.mozilla.org/en/datasets)
 * [DeepDive](http://deepdive.stanford.edu)
+* [Parallel Corpus](https://opus.nlpl.eu/)
 
 ## Paper
 
