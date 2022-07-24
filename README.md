@@ -118,6 +118,7 @@ Others
 * [An Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/pdf/irbookonlinereading.pdf)
 * [Deep Learning](https://www.deeplearningbook.org/)
 * [Math for Machine Learning](http://gwthomas.github.io/docs/math4ml.pdf)
+* [Mathematics for Machine Learning](https://mml-book.github.io/)
 
 ## Aggregates
 
